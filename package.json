@@ -1,6 +1,6 @@
 {
   "name": "webpack-easy-seo",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Easy SEO plugin for webpack and HtmlWebpackPlugin",
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
