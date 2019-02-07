@@ -11,7 +11,7 @@
   "keywords": [ "webpack", "seo", "easy", "opengraph", "og", "twitter"],
   "author": "",
   "license": "UNLICENSED",
-  "devDependencies": {
+  "dependencies": {
     "fs-extra": "^7.0.1"
   }
 }
