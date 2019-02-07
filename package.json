@@ -1,7 +1,7 @@
 {
   "name": "webpack-easy-seo",
   "version": "0.1.1",
-  "description": "",
+  "description": "Easy SEO plugin for webpack and HtmlWebpackPlugin",
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
@@ -15,8 +15,8 @@
     "og",
     "twitter"
   ],
-  "author": "",
-  "license": "UNLICENSED",
+  "author": "Johann Wagner",
+  "license": "MIT",
   "dependencies": {
     "fs-extra": "^7.0.1"
   }
