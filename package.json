@@ -1,14 +1,20 @@
 {
   "name": "webpack-easy-seo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
   "main": "src/index.js",
-  "scripts": {
-  },
-  "keywords": [ "webpack", "seo", "easy", "opengraph", "og", "twitter"],
+  "scripts": {},
+  "keywords": [
+    "webpack",
+    "seo",
+    "easy",
+    "opengraph",
+    "og",
+    "twitter"
+  ],
   "author": "",
   "license": "UNLICENSED",
   "dependencies": {
